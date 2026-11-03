@@ -4,6 +4,8 @@
 
 ### 🦊🍁 *About Me*
 
+<br>
+
 - 📍 I live in Italy, and I am currently a student at the **University of Salerno**.
 - 🛠️ I am working on small projects to learn new skills and expand my knowledge.
 
@@ -11,7 +13,7 @@
 
 ### 🤖🧬 *Tech Stack*
 
----
+<br>
 
 <h4>💻 Programming Languages</h3>
 <p>
