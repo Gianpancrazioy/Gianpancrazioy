@@ -1,19 +1,13 @@
-<h1 align="center">Hi there, I'm Antonio 👋</h1>
-
+### ![GitHub Streak](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&&weight=600&size=28&stroke=000000&strokeWidth=1&color=F75C7E&width=435&lines=Hi+there,+I'm+Antonio!;Welcome+to+my+profile!)
 ---
 
-### 🦊🍁 *About Me*
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&color=F75C7E&stroke=000000&strokeWidth=1&vCenter=true&width=300&height=40&pause=1000000&lines=%F0%9F%A6%8A%F0%9F%8D%81+About+Me" alt="About Me" />
 
 - 📍 I live in Italy, and I am currently a student at the **University of Salerno**.
 - 🛠️ I am working on small projects to learn new skills and expand my knowledge.
 
 ---
-
-### 🤖🧬 *Tech Stack*
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&color=F75C7E&stroke=000000&strokeWidth=1&vCenter=true&width=300&height=40&pause=1000000&lines=%F0%9F%A4%96%F0%9F%A7%AC+Tech+Stack" alt="Tech Stack" />
 
 <h4>💻 Programming Languages</h3>
 <p>
@@ -77,16 +71,33 @@
 </p>
 
 ---
-<h3 align="center">
-  📞✉️ Contacts
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&color=F75C7E&stroke=000000&strokeWidth=1&vCenter=true&width=300&height=40&pause=1000000&lines=%F0%9F%93%8A%F0%9F%93%88+Github+Stats" alt="Github Stats" />
 
-<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Gianpancrazioy&show_icons=true&theme=radical&count_private=true" alt="General Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gianpancrazioy&layout=compact&theme=radical" alt="Most Used Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gianpancrazioy&theme=radical" alt="Profile Summary"/>
+      </td>
+    </tr>   
+  </table>
+</div>
 
-<p align="center">
+---
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&color=F75C7E&stroke=000000&strokeWidth=1&vCenter=true&center=true&width=220&height=40&pause=1000000&lines=%F0%9F%93%9E%E2%9C%89%EF%B8%8F+Contacts" alt="Contacts" />
+  <br /><br />
   <a href="https://www.linkedin.com/in/antonio-vuolo-410b84442/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:v.antonio.business@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
