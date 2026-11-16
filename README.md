@@ -41,6 +41,11 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+<h4>🐳 DevOps & Containers</h3>
+<p>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 <h4>🧠 AI & Machine Learning</h3>
 <p>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -51,6 +56,7 @@
 
 <h4>🖥️ Environments & IDEs</h3>
 <p>
+  <img src="https://img.shields.io/badge/Antigravity%20IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Dev--C%2B%2B-00539C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black" />
